@@ -13,7 +13,7 @@ Sou formada em **Processos Gerenciais** e **Análise e Desenvolvimento de Sistem
 ## Habilidades Técnicas
 - **Linguagens**: Python, CSS, HTML, SQL
 - **Ferramentas e Tecnologias**: Git, GitHub, MySQL
-- **Metodologias**: Ágil; CRM; PDCA; 
+- **Metodologias**: Ágil; CRM; PDCA; UX Design; LGPD
 
 ## Contato
 - **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/emanuelly-santanna-9b846122a/)
