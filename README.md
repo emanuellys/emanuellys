@@ -8,7 +8,7 @@ Sou formada em **Processos Gerenciais** e **Análise e Desenvolvimento de Sistem
 - Transformação Digital e Inovação
 
 ## Projetos em Destaque
-- **[Fluxo Contínuo de Vagas - Melhoria do Tráfego em Andradina](link-para-o-repositório)**: Projeto de análise e proposta para melhorar a mobilidade urbana com estacionamento rotativo.
+- **[Fluxo Contínuo de Vagas - Melhoria do Tráfego em Andradina](https://github.com/emanuellys/Fluxo-cont-nuo-de-vagas)**: Projeto de análise e proposta para melhorar a mobilidade urbana com estacionamento rotativo.
 
 ## Habilidades Técnicas
 - **Linguagens**: Python, CSS, HTML, SQL
