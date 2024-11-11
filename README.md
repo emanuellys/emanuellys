@@ -16,5 +16,5 @@ Sou formada em **Processos Gerenciais** e **Análise e Desenvolvimento de Sistem
 - **Metodologias**: Ágil; CRM; PDCA; 
 
 ## Contato
-- **LinkedIn**: [Seu Perfil](www.linkedin.com/in/emanuelly-santanna-9b846122a)
+- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/emanuelly-santanna-9b846122a/)
 - **E-mail**: imemanuellys@gmail.com
